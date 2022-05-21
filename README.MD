@@ -1,4 +1,6 @@
-# Data-Forge Notebook viz plugin: txtext
+# Data-Forge Notebook viz plugin: text
+
+The code for this plugin has been merged into the [editor-core mono repo](https://github.com/data-forge-notebook/editor-core/).
 
 This is a visualization plugin for Data-Forge Notebook v2 that displays text.
 
